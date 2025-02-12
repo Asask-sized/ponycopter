@@ -1,3 +1,4 @@
+![1-s2 0-S1369702124002086-gr1_lrg](https://github.com/user-attachments/assets/0b45012e-7317-47d6-bb72-c6c526af36e5)
 # Security Policy
 
 ## Supported Versions
